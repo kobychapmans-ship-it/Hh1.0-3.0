@@ -1,0 +1,341 @@
+{
+  "source": "/mnt/data/hh_merge/horus-heresy-1st-edition-0a4c10da15f4ea40eea0932090fadafe3b90b696",
+  "output": "/mnt/data/Horus-Heresy-1st-Edition-HH3-Ports-v1.41",
+  "units_added": [
+    {
+      "name": "Vindicare Assassin",
+      "catalogue": "(HH) Agents of the Emperor or Warmaster.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Callidus Assassin",
+      "catalogue": "(HH) Agents of the Emperor or Warmaster.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Eversor Assassin",
+      "catalogue": "(HH) Agents of the Emperor or Warmaster.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Culexus Assassin",
+      "catalogue": "(HH) Agents of the Emperor or Warmaster.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Adamus Assassin",
+      "catalogue": "(HH) Agents of the Emperor or Warmaster.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Venenum Assassin",
+      "catalogue": "(HH) Agents of the Emperor or Warmaster.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Vanus Infocyte",
+      "catalogue": "(HH) Agents of the Emperor or Warmaster.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Infernus Abomination",
+      "catalogue": "(HH) Agents of the Emperor or Warmaster.cat",
+      "profile_structured": true,
+      "weapon_profiles": 4
+    },
+    {
+      "name": "Be’lakor",
+      "catalogue": "(HH) Daemons of the Ruinstorm Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 1
+    },
+    {
+      "name": "Sons of Horus Chieftains",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Word Bearers Procurators",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Space Wolves Jorlund Hunter Pack",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Thousand Sons Numerologist Cabal",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Iron Hands Morlock Terminator Squad",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Camba Diaz",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 1
+    },
+    {
+      "name": "Captain Lucius",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 2
+    },
+    {
+      "name": "Vheren Ashurhaddon",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 2
+    },
+    {
+      "name": "Araknae Quad Accelerator Platform",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 1
+    },
+    {
+      "name": "Hammerfall Bunker",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Legion Saturnine Terminator Squad",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Legion Saturnine Praetor",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Legion Saturnine Dreadnought",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Legion Kratos",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 5
+    },
+    {
+      "name": "Fulgrim Transfigured",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Magnus the Red Transfigured",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Horus Ascended",
+      "catalogue": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Questoris Knight Preceptor",
+      "catalogue": "(HH) Mechanicum - Questoris Knight.cat",
+      "profile_structured": true,
+      "weapon_profiles": 2
+    },
+    {
+      "name": "Kytan Daemon Engine of Khorne",
+      "catalogue": "(HH) Mechanicum - Taghmata Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 2
+    },
+    {
+      "name": "Blood Slaughterers of Khorne",
+      "catalogue": "(HH) Mechanicum - Taghmata Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 1
+    },
+    {
+      "name": "Chaos Decimator",
+      "catalogue": "(HH) Mechanicum - Taghmata Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 0
+    },
+    {
+      "name": "Greater Brass Scorpion of Khorne",
+      "catalogue": "(HH) Mechanicum - Taghmata Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 3
+    },
+    {
+      "name": "Solar Auxilia Aethon Heavy Sentinel Squadron",
+      "catalogue": "(HH) Solar Auxilia - Crusade Army List.cat",
+      "profile_structured": true,
+      "weapon_profiles": 3
+    }
+  ],
+  "rules_cards_added": [
+    "HH 1.41 — Assassins",
+    "HH 1.41 — Infernus Abomination",
+    "HH 1.41 — Be’lakor",
+    "HH 1.41 — New Consul Types",
+    "HH 1.41 — Sons of Horus Chieftains",
+    "HH 1.41 — Word Bearers Procurators",
+    "HH 1.41 — Space Wolves Jorlund Hunter Pack",
+    "HH 1.41 — Thousand Sons Numerologist Cabal",
+    "HH 1.41 — Iron Hands Morlock Terminator Squad",
+    "HH 1.41 — Camba Diaz",
+    "HH 1.41 — Captain Lucius",
+    "HH 1.41 — Vheren Ashurhaddon",
+    "HH 1.41 — Araknae Quad Accelerator Platform",
+    "HH 1.41 — Hammerfall Bunker",
+    "HH 1.41 — Legion Saturnine Terminators",
+    "HH 1.41 — Legion Saturnine Praetor",
+    "HH 1.41 — Legion Saturnine Dreadnought",
+    "HH 1.41 — Disintegration Weapons",
+    "HH 1.41 — Legion Kratos",
+    "HH 1.41 — Legiones Hereticus — Emperor’s Children",
+    "HH 1.41 — Legiones Hereticus — Thousand Sons",
+    "HH 1.41 — Legiones Hereticus — Word Bearers",
+    "HH 1.41 — Legiones Hereticus — Sons of Horus",
+    "HH 1.41 — Legiones Inductii",
+    "HH 1.41 — New Warlord Traits — Sons of Horus",
+    "HH 1.41 — New Warlord Traits — Iron Warriors and Word Bearers",
+    "HH 1.41 — New Warlord Traits — Thousand Sons and Emperor’s Children",
+    "HH 1.41 — New Warlord Traits — Imperial Fists and Iron Hands",
+    "HH 1.41 — New Warlord Traits — Raven Guard and Ultramarines",
+    "HH 1.41 — Rite of War — Imperial Fists: Templar Assault",
+    "HH 1.41 — Rite of War — Raven Guard: Shadow Warden Shock Assault",
+    "HH 1.41 — Rite of War — Iron Hands: The Dead Earth Doctrine",
+    "HH 1.41 — Rite of War — Ultramarines: The Victrix Phalanx",
+    "HH 1.41 — Rite of War — Iron Warriors: Grinding Judgement",
+    "HH 1.41 — Rite of War — Thousand Sons: The Achaean Configuration",
+    "HH 1.41 — Questoris Household Dark Blessings",
+    "HH 1.41 — Knight Preceptor",
+    "HH 1.41 — Dark Mechanicum Proscribed Techno Arcana",
+    "HH 1.41 — Krios Irradiation Engine",
+    "HH 1.41 — Corrupted Engines and Malefic Cybertheurgy",
+    "HH 1.41 — New Warlord Traits — Dark Mechanicum",
+    "HH 1.41 — Legiones Auxilia",
+    "HH 1.41 — Aethon Heavy Sentinel Squadron",
+    "HH 1.41 — Solar Auxilia Cohort Doctrines"
+  ],
+  "existing_entries_patched": [
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Legion Master of Descent Consul"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Legion Overseer Consul"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Sons of Horus Legion Dark Emissary"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Imperial Fists Legion Castellan"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Emperor’s Children Legion Phoenix Warden"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Legion Master of Descent Consul"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Legion Overseer Consul"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Sons of Horus Legion Dark Emissary"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Imperial Fists Legion Castellan"
+    },
+    {
+      "entry": "Centurion, Legion",
+      "addition": "Emperor’s Children Legion Phoenix Warden"
+    },
+    {
+      "entry": "Nullificator",
+      "addition": "Disintegrator Blaster (replace combi-bolter)"
+    },
+    {
+      "entry": "Veteran Tactical Squad, Legion",
+      "addition": "Volkite Charger (replace bolter)"
+    },
+    {
+      "entry": "Veteran Tactical Squad, Legion",
+      "addition": "Disintegrator Rifle (replace bolter)"
+    },
+    {
+      "entry": "Veteran Tactical Squad, Legion",
+      "addition": "Veteran Sergeant: Disintegrator Pistol (replace bolt pistol)"
+    },
+    {
+      "entry": "Veteran Tactical Squad, Legion",
+      "addition": "Disintegrator Blaster (1 per 5)"
+    },
+    {
+      "entry": "Veteran Tactical Squad, Legion",
+      "addition": "Heavy Disintegrator (1 per 5)"
+    },
+    {
+      "entry": "Krios",
+      "addition": "Irradiation Blaster (replace Lightning cannon)"
+    }
+  ],
+  "warnings": [],
+  "catalogues": {
+    "(HH) Agents of the Emperor or Warmaster.cat": {
+      "before_nodes": 2828,
+      "after_nodes": 3025
+    },
+    "(HH) Daemons of the Ruinstorm Army List.cat": {
+      "before_nodes": 2676,
+      "after_nodes": 2711
+    },
+    "(HH) Legiones Astartes - Crusade Army List.cat": {
+      "before_nodes": 68287,
+      "after_nodes": 69582
+    },
+    "(HH) Mechanicum - Questoris Knight.cat": {
+      "before_nodes": 1285,
+      "after_nodes": 1358
+    },
+    "(HH) Mechanicum - Taghmata Army List.cat": {
+      "before_nodes": 12997,
+      "after_nodes": 13207
+    },
+    "(HH) Solar Auxilia - Crusade Army List.cat": {
+      "before_nodes": 6864,
+      "after_nodes": 6984
+    }
+  }
+}
