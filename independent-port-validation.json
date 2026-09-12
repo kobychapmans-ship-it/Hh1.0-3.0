@@ -1,0 +1,30 @@
+{
+  "xml": {
+    "HH1+3 Port - Daemons of the Ruinstorm.cat": "ok",
+    "HH1+3 Port - Talons of the Emperor.cat": "ok",
+    "HH1+3 Port - Imperialis Militia and Cults.cat": "ok",
+    "HH1+3 Port - Varangian Heresy Legions.cat": "ok",
+    "HH1+3 Port - Chaos Daemons.cat": "ok",
+    "HH1+3 Port - Army of Dark Compliance.cat": "ok",
+    "HH1+3 Port - Mournival Units.cat": "ok",
+    "HH1+3 Port - Questoris Knight Crusade Army.cat": "ok",
+    "HH1+3 Port - Solar Auxilia.cat": "ok",
+    "HH1+3 Port - Agents of the Emperor or Warmaster.cat": "ok",
+    "HH1+3 Port - Craftworld Eldar - Asuryani.cat": "ok",
+    "HH1+3 Port - Legiones Astartes - Crusade Army.cat": "ok",
+    "HH1+3 Port - Mechanicum Taghmata.cat": "ok",
+    "HH1+3 Port - Necron Army.cat": "ok",
+    "HH1+3 Port - The Horus Heresy.gst": "ok",
+    "index.xml": "ok"
+  },
+  "errors": [],
+  "checks": {
+    "catalogues": 14,
+    "catz": 14,
+    "gstz": 1,
+    "index_bsi_exists": true,
+    "original_named_cat_files_remaining": [],
+    "original_gst_remaining": false,
+    "all_catalogues_use_new_gsid": true
+  }
+}

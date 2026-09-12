@@ -1,0 +1,100 @@
+{
+  "version": "1.41.0-port2",
+  "changes": [
+    "Six HH 1.41 Rites of War are now native selectable Rite entries with Legion/allegiance gating.",
+    "Legiones Hereticus is now a mutually-exclusive Late Heresy selector, gated to Traitor EC/TS/WB/SoH detachments.",
+    "All ten Inductii templates are selectable directly on Legion Tactical Squads with legion gating and priced template wargear options.",
+    "Thousand Sons Hereticus now hides normal Tactical Squads and exposes a compulsory-capable Inductii replacement squad.",
+    "Eight Corrupted Rites of War are now native Rite choices gated behind the matching Hereticus variant, with principal force-org prohibitions enforced.",
+    "All legion-specific HH1.41 units and characters are now hidden outside their correct Legion.",
+    "Eight Solar Auxilia Cohort Doctrines are native selectable entries; major role changes and Feral Fear purchase are machine represented, and doctrine access is attached to commanders.",
+    "Proscribed Techno-arcana is selectable on Magos/Archmagos Prime for Traitor detachments; new daemon engines are Traitor-gated.",
+    "Questoris Dark Blessings are selectable on Knight Armour and are mutually exclusive with Household Ranks at roster level."
+  ],
+  "warnings": [],
+  "validation": [
+    {
+      "file": "(HH) Imperialis Militia and Cults Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 123
+    },
+    {
+      "file": "(HH) Varangian Heresy Legions.cat",
+      "xml": "ok",
+      "duplicate_ids": 0
+    },
+    {
+      "file": "(HH) Daemons of the Ruinstorm Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 0
+    },
+    {
+      "file": "(HH) Talons of the Emperor Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 0
+    },
+    {
+      "file": "(HH) Necron Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 0
+    },
+    {
+      "file": "(HH) Mechanicum - Taghmata Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 151
+    },
+    {
+      "file": "(HH) Craftworld Eldar - Asuryani Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 0
+    },
+    {
+      "file": "(HH) Legiones Astartes - Crusade Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 1067
+    },
+    {
+      "file": "(HH) Army of Dark Compliance List.cat",
+      "xml": "ok",
+      "duplicate_ids": 106
+    },
+    {
+      "file": "(HH) Chaos Daemons Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 39
+    },
+    {
+      "file": "(HH) Mournival Units.cat",
+      "xml": "ok",
+      "duplicate_ids": 0
+    },
+    {
+      "file": "(HH) Mechanicum - Questoris Knight.cat",
+      "xml": "ok",
+      "duplicate_ids": 3
+    },
+    {
+      "file": "(HH) Solar Auxilia - Crusade Army List.cat",
+      "xml": "ok",
+      "duplicate_ids": 63
+    },
+    {
+      "file": "(HH) Agents of the Emperor or Warmaster.cat",
+      "xml": "ok",
+      "duplicate_ids": 0
+    },
+    {
+      "file": "The Horus Heresy.gst",
+      "xml": "ok"
+    }
+  ],
+  "checks": {
+    "rites_native": 6,
+    "corrupted_rites": 8,
+    "hereticus": 4,
+    "inductii": 10,
+    "cohort_doctrines": 8,
+    "dark_blessings": 9,
+    "proscribed_arcana": 4
+  }
+}

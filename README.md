@@ -1,3 +1,33 @@
+# HH1+3 Port — Independent BattleScribe Game System
+
+This repository is an **independent Horus Heresy 1.0 game system** containing the HH 1.41 / Horus Heresy 3.0 content ported into HH1 rules. It intentionally uses a different game-system ID, different catalogue IDs, and different filenames from the archived BSData HH1 repository so both systems can be installed side-by-side.
+
+**Game system:** `HH1+3 Port - Warhammer 30,000 The Horus Heresy`  
+**Game-system ID:** `7cea4d03-96df-56cc-b989-a4d939beb6ef`  
+**Game-system revision:** `200`
+
+## BattleScribe data index
+
+Use the repository's raw `index.bsi` URL in BattleScribe. The index downloads compressed `.gstz` / `.catz` files from `distro/`, preventing filename collisions with the original HH1 data.
+
+## Port systems included
+
+- 6 new native Rites of War with Legion/allegiance gating
+- 8 Corrupted Rites of War
+- 4 Legiones Hereticus variants
+- 10 Legion Inductii templates
+- Thousand Sons Hereticus Inductii replacement squad
+- 8 Solar Auxilia Cohort Doctrines
+- Dark Mechanicum Proscribed Techno-arcana
+- Questoris Dark Blessings with Household Rank mutual exclusion
+- Legion gating for the ported legion-specific units and characters
+
+## Independence from original HH1
+
+The original BSData game-system ID was `ca571888-56a9-c58e-ddaf-54f4713538bc`. This port uses `7cea4d03-96df-56cc-b989-a4d939beb6ef`. All 14 catalogue root IDs have also been regenerated and cross-catalogue root references updated. Internal rules/profiles remain based on the HH1 source so the conversion logic is preserved.
+
+---
+
 Horus Heresy
 ============
 
@@ -51,3 +81,10 @@ Great, thank you! Please [Report a bug][bug report] - you can also suggest enhan
 
 [BSData.net]: https://www.bsdata.net/
 [bug report]: https://github.com/BSData/horus-heresy/issues/new/choose
+
+
+## HH 1.41 / HH3 → HH1 Port
+
+This fork contains the 98-page HH 1.41 additions packet ported to Horus Heresy 1.0. The **1.41.0-port2** pass converts the major late-Heresy systems from informational rules cards into native BattleScribe selectors and conditional roster logic: new Rites of War, Corrupted Rites, Legiones Hereticus, Inductii templates, Solar Auxilia Cohort Doctrines, Dark Mechanicum Proscribed Techno-arcana, and Questoris Dark Blessings.
+
+The source transcript and porting map are retained under `port-docs/`, and generated validation reports are under `generated/`. This repository is ready to be uploaded as a standalone GitHub data repository; the included GitHub Actions validate datafiles and publish `.catpkg` assets on releases.
